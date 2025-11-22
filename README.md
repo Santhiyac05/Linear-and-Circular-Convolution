@@ -128,4 +128,4 @@ title("Circular Convolution y(n)");
 <img width="1040" height="581" alt="image" src="https://github.com/user-attachments/assets/be090dd2-daf8-4ff2-878b-13bbac416425" />
 
 ## RESULT: 
-Thus convolution using both circular and linear method using with and without 'conv' function is performed.
+The linear and circular convolution of the given sequences were successfully computed using SCILAB.
